@@ -1,0 +1,325 @@
+OBJECTID,prov,city_muni,brgy,date_from,date_to,time,tc_categor,intl_name,local_name,latitude,longitude,obs_height,range,type
+246,Occidental Mindoro,Mamburao,Tayamaan,7/21/1968,7/28/1968,,Typhoon,Olga,Didang,13.2301853,120.5421785,9.0,9,Surveyed
+29,Bataan,Bagac,Pag-asa (Wawa-Sibacan),10/10/1970,10/15/1970,,Super Typhoon,Joan,Sening,14.58945371,120.3892618,5.0,3.0-5.3,Surveyed
+35,Bataan,Morong,Poblacion,10/10/1970,10/15/1970,,Super Typhoon,Joan,Sening,14.67322729,120.2649059,5.0,3.0-5.4,Surveyed
+100,Cavite,Cavite City,Barangay 36 (Sap-sap),10/10/1970,10/15/1970,,Super Typhoon,Joan,Sening,14.48076729,120.8903168,5.0,3.0-5.0,Surveyed
+167,Ilocos Sur,Santa Cruz,Pinipin,10/10/1970,10/15/1970,,Super Typhoon,Joan,Sening,17.06022313,120.4439329,5.0,3.0-5.2,Surveyed
+268,Sorsogon,Barcelona,Cagang,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,12.86485211,124.1480167,3.88,3.88,Surveyed
+26,Aurora,Dilasag,Dicabasan,10/24/1978,10/27/1978,,Super Typhoon,Rita,Kading,16.41713772,122.201363,7.17,2.31-7.17,Surveyed
+27,Aurora,Dingalan,Aplaya,10/24/1978,10/27/1978,,Super Typhoon,Rita,Kading,15.37970897,121.395467,6.39,3.28-6.39,Surveyed
+129,Eastern Samar,Arteche,Carapdapan,10/24/1978,10/27/1978,,Super Typhoon,Rita,Kading,12.27063435,125.4042783,2.92,1.68-2.92,Surveyed
+25,Aurora,Baler,Buhangin,11/21/1981,11/27/1981,,Super Typhoon,Irma,Anding,15.77698005,121.5607253,8.4,2.7-8.4,Surveyed
+85,Camarines Norte,Daet,Bagasbas,11/21/1981,11/27/1981,,Super Typhoon,Irma,Anding,14.14181523,122.9819304,8.2,8.2,Surveyed
+89,Camarines Sur,San Jose,Dolo,11/21/1981,11/27/1981,,Super Typhoon,Irma,Anding,13.71048324,123.5700574,2.2,2.2,Surveyed
+90,Camarines Sur,Sipocot,Anib,11/21/1981,11/27/1981,,Super Typhoon,Irma,Anding,13.80123345,123.049653,2.9,2.9,Surveyed
+91,Camarines Sur,Tinambac,Sogod,11/21/1981,11/27/1981,,Super Typhoon,Irma,Anding,13.82185064,123.3222999,4.4,4.4,Surveyed
+308,Surigao del Sur,Bislig,San Fernando,3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,8.221426158,126.3124283,3.67,2.98-3.67,Surveyed
+309,Surigao del Sur,Cantilan,Lininti-an (Pob.),3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,9.33800997,125.985161,2.31,2.15-2.31,Surveyed
+311,Surigao del Sur,Hinatuan,Tiwi,3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,8.368948633,126.3409947,2.39,2.39,Surveyed
+312,Surigao del Sur,Lanuza,Zone IV (Pob.),3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,9.235234957,126.0604327,4.66,4.66,Surveyed
+313,Surigao del Sur,Lianga,Poblacion,3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,8.627680766,126.0966085,3.51,3.51,Surveyed
+316,Surigao del Sur,Tago,Purisima (Pob.),3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,9.029834967,126.2290397,2.88,2.88,Surveyed
+317,Surigao del Sur,Tandag,Brgy. Bagong Lungsod,3/18/1982,3/22/1982,,Severe Tropical Storm,Mamie,Akang,9.074364044,126.2009263,4.38,2.20-4.38,Surveyed
+5,Albay,Tabaco,Sto. Cristo,7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,13.35832121,123.7381952,0.65,0.65,Surveyed
+28,Bataan,Abucay,Wawa (Pob.),7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,14.722714,120.547909,1.7,1.7,Surveyed
+30,Bataan,Balanga,Pto. Rivas Ibaba,7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,14.70155772,120.5588365,1.9,1.9,Surveyed
+32,Bataan,Limay,Lamao,7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,14.51770802,120.6086981,0.66,0.66,Surveyed
+33,Bataan,Limay,Reformista,7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,14.56369372,120.5985472,0.98,0.98,Surveyed
+37,Bataan,Orion,Lusungan (Pob.),7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,14.61964091,120.5843743,0.78,0.78,Surveyed
+269,Sorsogon,Bulusan,San Vicente,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,12.79058627,124.1492013,2.35,2.35,Surveyed
+257,Quezon,Gen. Nakar,Maligaya,11/17/1983,11/27/1983,,Super Typhoon,Orchid,Warling,14.96149646,121.56592,4.82,4.82,Surveyed
+259,Quezon,Infanta,Libjo,11/17/1983,11/27/1983,,Super Typhoon,Orchid,Warling,14.75568325,121.6735546,4.52,4.52,Surveyed
+1,Agusan del Norte,Jabonga,Lake Mainit,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.453293074,125.450206,2.83,2.83,Surveyed
+43,Bohol,Anda,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.741456312,124.5758165,2.6,2.12-2.60,Surveyed
+44,Bohol,Baclayon,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.62186416,123.9082084,2.95,1.93-2.95,Surveyed
+45,Bohol,Bien Unindo,Nueva Estrella,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.13469654,124.3617305,4.39,4.39,Surveyed
+46,Bohol,Calape,Desamparados (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.89,123.87,2.33,2.25-2.33,Surveyed
+47,Bohol,CP Garcia,Tugnao,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.11111106,124.589267,3.12,2.13-3.12,Surveyed
+48,Bohol,Dauis,San Isidro,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.580045345,123.8321761,2.29,2.29,Surveyed
+49,Bohol,Dimaiao,Balbalan,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.603187753,124.1519366,2.37,2.14-2.37,Surveyed
+50,Bohol,Duero,San Pedro,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.706067838,124.4059325,1.87,1.87,Surveyed
+51,Bohol,Guindulman,Sawang (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.759921108,124.4832776,2.21,1.80-2.21,Surveyed
+52,Bohol,Hernandez,Cayam,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.604167774,124.2750602,2.97,2.97,Surveyed
+53,Bohol,Inabanga,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.02868868,124.0554374,2.46,2.46,Surveyed
+54,Bohol,Jagna,Looc,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.64765414,124.3647393,2.84,2.09-2.84,Surveyed
+55,Bohol,Jetafe,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.15074616,124.1496362,6.23,6.23,Surveyed
+56,Bohol,Lila,Catugasan,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.588022984,124.0871063,3.3,3.3,Surveyed
+57,Bohol,Loay,Poblacion Ubos,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.599212897,124.0097191,2.21,2.21,Surveyed
+58,Bohol,Mabini,Cawayanan,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.865307548,124.5315538,2.87,2.87,Surveyed
+59,Bohol,Mabini,Poblacion II,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.857033333,124.5184277,6.42,6.21-6.42,Surveyed
+60,Bohol,Panglao,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.57623677,123.7445912,2.37,2.17-2.37,Surveyed
+61,Bohol,Talibon,San Francisco,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.158779,124.3206669,2.86,1.65-2.86,Surveyed
+62,Bohol,Tubigon,Pooc Occidental (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.95,123.96,2.0,2,Surveyed
+63,Bohol,Ubay,Tapon,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.06,124.47,1.83,1.83,Surveyed
+64,Bohol,Valencia,Poblacion Oriental,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.605755415,124.2123248,1.6,1.6,Surveyed
+108,Cebu,Liloan,Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.40216548,124.0009596,2.15,1.76-2.15,Surveyed
+109,Cebu,San Francisco,Northern Poblacion,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.65555318,124.3796303,1.97,1.97,Surveyed
+110,Cebu,San. Fernando,San Isidro,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.16802987,123.7176394,3.25,3.25,Surveyed
+202,Leyte,Baybay City,Hipusngo,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.65826045,124.8029376,1.2,1.2,Surveyed
+230,Misamis Occidental,Clarin,Poblacion I,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,8.201100907,123.8661242,1.51,1.51,Surveyed
+261,Quezon,Padre Burgos,Villapaz,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,13.92132765,121.8120231,3.16,3.16,Surveyed
+278,Southern Leyte,Libagon,Talisay (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.29830615,125.0487023,2.09,1.61-2.09,Surveyed
+280,Southern Leyte,Limawasa,Lugsongan,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.93,125.08,4.64,4.64,Surveyed
+286,Southern Leyte,Pintuyan,Ponod,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.950099919,125.2467144,3.59,2.20-3.59,Surveyed
+288,Southern Leyte,San Ricardo,Esperanza Dos,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.970324177,125.2719526,7.16,3.49-7.16,Surveyed
+291,Southern Leyte,Sogod,Zone III (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.38306784,124.982181,3.27,3.27,Surveyed
+292,Southern Leyte,Sogod,Zone II (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,10.38284251,124.9808838,2.92,2.48-2.92,Surveyed
+296,Surigao del Norte,Claver,Gigaguit,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.587075618,125.7211262,2.82,2.82,Surveyed
+297,Surigao del Norte,Claver,Magallanes,8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.585309968,125.7282736,4.57,4.57,Surveyed
+302,Surigao del Norte,Placer,Central (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.658051674,125.6036584,2.39,2.39,Surveyed
+306,Surigao del Norte,Surigao City,Taft (Pob.),8/31/1984,9/4/1984,,Super Typhoon,Ike,Nitang,9.786167016,125.5002925,3.53,3.53,Surveyed
+41,Biliran,Cabucyagan,Esperanza (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.47334555,124.5662319,2.42,1.68-2.42,Surveyed
+42,Biliran,Naval,Atipolo,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.57037079,124.3903432,1.86,1.24-1.86,Surveyed
+111,Cebu,Tudela,McArthur,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.65424772,124.5128151,3.39,3.27-3.39,Surveyed
+131,Eastern Samar,Balangkayan,Cabay,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.44800277,125.4936288,4.5,4.5,Surveyed
+144,Eastern Samar,Hernani,Poblacion II,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.3238723,125.6248784,2.82,2.82,Surveyed
+149,Eastern Samar,Llorente,Barangay 8,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.41317394,125.5484771,2.65,2.65,Surveyed
+173,Iloilo,Anilao,San Carlos,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.97677238,122.7767117,2.27,2.27,Surveyed
+175,Iloilo,Batad,Embarcadero,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.41776082,123.1291721,1.97,1.93-1.97,Surveyed
+176,Iloilo,Concepcion,Poblacion,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.2173135,123.1048632,2.42,1.28-2.42,Surveyed
+178,Iloilo,Estancia,Poblacion Zone II,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.45506539,123.1536718,3.01,2.59-3.01,Surveyed
+179,Iloilo,Guimbal,Cabubugan,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.65822596,122.2929601,2.51,1.74-2.51,Surveyed
+183,Iloilo,Tigbauan,Parara Sur,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.67101088,122.3657931,3.06,1.67-3.06,Surveyed
+195,Leyte,Abuyog,Bito (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.75225485,125.0123703,2.62,1.84-2.62,Surveyed
+198,Leyte,Babatngon,Poblacion District II,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.42971999,124.8413307,2.15,2.15,Surveyed
+199,Leyte,Babatngon,Poblacion District II,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.4257223,124.8450377,2.46,1.47-2.46,Surveyed
+200,Leyte,Barugo,Domogdog,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.33275463,124.7479961,0.87,0.87,Surveyed
+204,Leyte,Calubian,Garganera,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.44789629,124.4293079,3.16,2.01-3.16,Surveyed
+205,Leyte,Capoocan,Poblacion Zone I,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.29410985,124.6435053,3.26,3.26,Surveyed
+206,Leyte,Carigara,Baybay (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.30280299,124.6896575,1.68,1.68,Surveyed
+207,Leyte,Dulag,Catmonan (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.9571146,125.0369391,2.15,1.99-2.15,Surveyed
+216,Leyte,Palo,Cogon (Cogon San Joaquin),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.15344614,125.0096183,1.3,1.3,Surveyed
+219,Leyte,San Isidro,Bawod (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.4088779,124.3459441,2.09,1.7-2.09,Surveyed
+220,Leyte,Tabango,Poblacion,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.30623988,124.3691373,1.79,1.79,Surveyed
+223,Leyte,Tacloban City,Libertad,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.25231187,125.0026587,2.17,2.17,Surveyed
+224,Leyte,Tacloban CIty,Libertad,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.25144144,125.001232,1.84,1.68-1.84,Surveyed
+226,Leyte,Tanauan,San Roque,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.10878114,125.022501,2.73,1.53-2.73,Surveyed
+227,Leyte,Tolosa,Canmogsay,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.04378058,125.0374975,2.15,1.63-2.15,Surveyed
+228,Leyte,Villaba,Poblacion Norte,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.21385706,124.391165,2.13,1.38-2.13,Surveyed
+264,Samar,Basey,Mercado,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,11.28063732,125.0708256,2.8,2.8,Surveyed
+290,Southern Leyte,Sogod,Zone II (Pob.),11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,10.38265083,124.9800845,1.84,1.84,Surveyed
+305,Surigao del Norte,Surigao City,San Juan,11/3/1984,11/6/1984,,Super Typhoon,Agnes,Undang,9.792877435,125.4849084,4.4,4.4,Surveyed
+130,Eastern Samar,Balangiga,Poblacion V,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.10178566,125.3993094,2.8,2.8,Surveyed
+132,Eastern Samar,Balangkayan,Cabay,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.44748557,125.4968053,6.18,2.21-6.18,Surveyed
+135,Eastern Samar,Borongan,Purok A (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.61173437,125.4386342,4.46,1.94-4.46,Surveyed
+136,Eastern Samar,Can-Avid,Canteros,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.9793989,125.4484964,4.63,3.49-4.63,Surveyed
+137,Eastern Samar,Dolores,Barangay 13 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,12.03928686,125.4917102,1.9,1.9,Surveyed
+138,Eastern Samar,Gen. Mcarthur,Aguinaldo,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.23119642,125.5369041,2.36,2.28-2.36,Surveyed
+140,Eastern Samar,Giporlos,Barangay 3 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.12003988,125.4513204,2.3,1.8-2.3,Surveyed
+141,Eastern Samar,Guiuan,Poblacion Ward 3,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.02812924,125.7249304,4.2,1.9-4.2,Surveyed
+145,Eastern Samar,Hernani,Poblacion 2,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.32606364,125.6262736,5.98,3.61-5.98,Surveyed
+150,Eastern Samar,Llorente,Barangay 8 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.41094285,125.5494387,6.46,3.47-6.46,Surveyed
+151,Eastern Samar,Maydolong,Poblacion 7,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.50060365,125.5089676,3.18,3.18,Surveyed
+152,Eastern Samar,Mercedes,San Roque,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.10290132,125.6951985,3.0,2.1-3,Surveyed
+153,Eastern Samar,Oras,Balocawe (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,12.13761388,125.4428707,5.18,2.07-5.18,Surveyed
+154,Eastern Samar,Paranas,Lawaan II,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.77326703,125.0174305,2.6,1.8-2.6,Surveyed
+155,Eastern Samar,Quinapondan,Barangay No. 5 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.13998235,125.5193493,3.1,2.3-3.1,Surveyed
+156,Eastern Samar,Salcedo,Barangay 2 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.14187668,125.6551039,8.5,1.6-8.5,Surveyed
+157,Eastern Samar,San Julian,Barangay 3 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.75865569,125.454744,2.89,1.37-2.89,Surveyed
+158,Eastern Samar,San Policarpio,Barangay 3 (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,12.18831403,125.5149135,2.47,1.63-2.47,Surveyed
+159,Eastern Samar,Sulat,Maglipay (Pob.),11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.81822592,125.4456072,2.56,1.27-2.56,Surveyed
+160,Eastern Samar,Taft,Nato,11/14/1984,11/21/1984,,Super Typhoon,Clara,Yoning,11.91802207,125.4236678,3.76,2.18-3.76,Surveyed
+258,Quezon,Infanta,Boboin,10/15/1985,10/20/1985,,Typhoon,Dot,Saling,14.76446378,121.6656059,3.46,3.46,Surveyed
+247,Oriental Mindoro,Naujan,Estrella,8/8/1987,8/14/1987,,Typhoon,Herming,Betty,13.32909759,121.3123824,2.08,2.08,Surveyed
+241,Northern Samar,Pambujan,Poblacion District 6,10/12/1987,10/12/1987,,Typhoon,Kelly,Oniang,12.56691676,124.9298652,1.5,1.5,Surveyed
+267,Samar,Basey,Mercado,10/12/1987,10/12/1987,,Typhoon,Kelly,Oniang,11.27992783,125.0697852,4.9,4.9,Surveyed
+225,Leyte,Tacloban CIty,Libertad,10/14/1987,10/15/1987,,Typhoon,Kelly,Oniang,11.2496885,125.0003833,0.9,0.9,Surveyed
+3,Albay,Bacacay,Barangay 1 (Pob.),11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,13.29683774,123.7962283,3.4,3.4,Surveyed
+4,Albay,Legazpi City,Bgy. 57 - Dap-dap (Bgy. 69),11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,13.14085248,123.7602418,3.9,3.9,Surveyed
+6,Albay,Tabaco City,Tayhi,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,13.36487158,123.7368833,2.6,2.6,Surveyed
+7,Albay,Tiwi,Baybay,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,13.4561442,123.6888244,6.88,6.88,Surveyed
+270,Sorsogon,Gubat,Ariman,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,12.90790199,124.1172605,3.6,3.6,Surveyed
+271,Sorsogon,Sorsogon City,Balogo (Sorsogon East District),10/10/1970,10/15/1970,,Super Typhoon,Joan,Sening,12.97230932,124.0150443,5.0,3.0-5.1,Surveyed
+272,Sorsogon,Sorsogon City,Cambulaga,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,12.96354858,123.9904078,2.56,2.56,Surveyed
+273,Sorsogon,Sorsogon City,Pobalcion,11/23/1987,11/27/1987,,Super Typhoon,Nina,Sisang,13.04076244,124.0407865,3.6,3.6,Surveyed
+274,Sorsogon,Sorsogon City,Salvacion (Bacon District),7/12/1983,7/16/1983,,Typhoon,Vera,Bebeng,13.00986705,124.0719658,2.9,2.9,Surveyed
+107,Cebu,Catmon,Flores,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.71481873,124.0161534,2.34,2.34,Surveyed
+134,Eastern Samar,Balangkayan,Cabay,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,11.45098574,125.4948436,4.67,4.67,Surveyed
+148,Eastern Samar,Hernani,Poblacion II,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,11.32817227,125.6241854,6.86,6.86,Surveyed
+177,Iloilo,Dumangas,Bantud Fabrica,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.79539519,122.6809654,2.29,1.54-2.29,Surveyed
+180,Iloilo,Leganes,M.V. Hechanova (Balagon),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.76970283,122.6070368,3.38,1.77-3.38,Surveyed
+181,Iloilo,Miagao,Mambatad,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.6381826,122.226976,2.33,2.17-2.33,Surveyed
+182,Iloilo,San Joaquin,Baybay,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.5864903,122.1298493,1.05,0.74-1.05,Surveyed
+184,Iloilo,Tigbauan,Parara Norte,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.67024493,122.371649,2.07,2.07,Surveyed
+196,Leyte,Abuyog,Pilar,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.71521117,125.0521222,2.4,2.4,Surveyed
+197,Leyte,Albuera,Poblacion,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.92727599,124.6910405,2.54,2.54,Surveyed
+201,Leyte,Bato,Ponong,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.315949,124.7908377,1.88,1.88,Surveyed
+203,Leyte,Baybay City,Hipusngo,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.66085248,124.8039036,2.0,1.73-2.00,Surveyed
+209,Leyte,Dulag,Sungi (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.95030731,125.0363292,3.1,3.1,Surveyed
+210,Leyte,Hilongos,Atabay,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.3734486,124.7400397,2.04,2.04,Surveyed
+211,Leyte,Hindang,Poblacion II,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.43546806,124.7254401,1.94,1.85-1.94,Surveyed
+212,Leyte,Inopacan,Poblacion,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.50202058,124.7389642,2.16,2.00-2.16,Surveyed
+213,Leyte,Matalom,Caridad Norte,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.2777341,124.7829083,1.93,1.93,Surveyed
+214,Leyte,Merida,Poblacion,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.90615203,124.537574,1.98,1.37-1.98,Surveyed
+215,Leyte,Ormoc,Punta,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,11.00882768,124.5997377,2.37,1.77-2.37,Surveyed
+218,Leyte,Palompon,Panagdait,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,11.04849317,124.3818815,2.62,1.62-2.62,Surveyed
+231,Negros Occidental,Isabela,Barangay 5 (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.20683572,122.8429066,2.02,1.62-2.02,Surveyed
+279,Southern Leyte,Limasawa,Lugsongan,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,9.93,125.08,10.0,7.77-10.00,Surveyed
+281,Southern Leyte,Maasin City,Tunga-tunga (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.13107348,124.8388098,3.56,2.52-3.56,Surveyed
+282,Southern Leyte,Macrohon,Aguinaldo,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.06229205,124.9534919,3.6,3.6,Surveyed
+283,Southern Leyte,Macrohon,Santo Rosario (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.08023913,124.9379457,3.59,2.86-3.59,Surveyed
+284,Southern Leyte,Malitbog,Taliwa (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.15894951,125.0030309,2.84,1.38-2.84,Surveyed
+285,Southern Leyte,Padre Burgos,Dinahugan,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.07587412,125.0233957,3.47,3.18-3.47,Surveyed
+293,Southern Leyte,Sogod,Zone II (Pob.),11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.38219571,124.9793593,3.6,3.6,Surveyed
+295,Southern Leyte,Tomas Oppus,San Roque,11/8/1990,11/14/1990,,Super Typhoon,Mike,Ruping,10.26641223,124.9842642,2.76,2.76,Surveyed
+88,Camarines Norte,Paracale,Palanas,10/18/1992,10/27/1992,,Severe Tropical Storm,Colleen,Paring,14.2836947,122.7925243,2.52,2.52,Surveyed
+2,Agusan del Sur,San Francisco,Anibongan,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,8.58960417,126.1151138,3.06,3.06,Surveyed
+127,Dinagat Islands,Dinagat,Mauswagon (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.96210613,125.5904362,2.91,2.91,Surveyed
+128,Dinagat Islands,Loreto,Carmen (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.36,125.58,3.62,2.91-3.62,Surveyed
+275,Southern Leyte,Anahawan,Lo-ok,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.28225111,125.2618978,1.97,1.97,Surveyed
+276,Southern Leyte,Hinunangan,Poblacion,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.39886074,125.2008587,2.63,2.45-2.63,Surveyed
+277,Southern Leyte,Hinundayan,District II (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.35068213,125.2566838,2.87,2.34-2.87,Surveyed
+287,Southern Leyte,San Juan,Santo Ni├▒o (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.26348676,125.1712872,2.96,2.24-2.96,Surveyed
+289,Southern Leyte,Silago,Poblacion District II,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.53453485,125.1643929,2.35,1.46-2.35,Surveyed
+294,Southern Leyte,St. Bernard,Himbangan,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,10.26553811,125.1270267,2.64,2.56-2.64,Surveyed
+298,Surigao del Norte,General Luna,Poblacion V,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.79300931,126.1625903,2.37,2.37,Surveyed
+299,Surigao del Norte,Gigaquit,Alambique,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.599128463,125.6957416,2.47,2.47,Surveyed
+300,Surigao del Norte,Malimono,Bunyasan,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.584101929,125.4095035,5.27,5.27,Surveyed
+301,Surigao del Norte,Pilar,Centro (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.863817635,126.0982829,3.61,3.61,Surveyed
+303,Surigao del Norte,Placer,Magsaysay,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.658446298,125.6001218,5.24,2.39-5.24,Surveyed
+304,Surigao del Norte,San Isidro,Pacifico,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.947453354,126.1025033,6.39,6.39,Surveyed
+307,Surigao del Norte,Surigao City,Taft (Pob.),3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.789918804,125.4976391,2.77,2.77,Surveyed
+310,Surigao del Sur,Cortes,Burgos,3/31/1994,4/4/1994,,Typhoon,Owen,Bising,9.245337359,126.1826087,5.57,5.57,Surveyed
+72,Cagayan,Claveria,Centro VI (Minanga),10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,18.61274955,121.0872678,4.15,2.85-4.15,Surveyed
+81,Camarines Norte,Daet,Bagasbas,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,14.14511149,122.9804039,3.45,3.45,Surveyed
+82,Camarines Norte,Daet,Bagasbas,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,14.13431975,122.9854206,3.45,3.45,Surveyed
+86,Camarines Norte,Paracale,Palanas,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,14.28527533,122.7953198,4.93,4.93,Surveyed
+92,Catanduanes,Bagamanoc,Bagatabao,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.94267133,124.2940017,4.29,3.00-4.29,Surveyed
+93,Catanduanes,Baras,Moning,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.65402298,124.3587573,6.425,2.91-6.425,Surveyed
+94,Catanduanes,Bato,Cabugao,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.59353517,124.2807598,4.69,2.555-4.69,Surveyed
+95,Catanduanes,Caramoan,Bikal,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.81059422,123.8489665,4.23,3.735-4.23,Surveyed
+96,Catanduanes,Gigmoto,Poblacion District 1,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.77864484,124.3927591,5.9,3.39-5.90,Surveyed
+97,Catanduanes,Pandan,Oga,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,14.05050647,124.1541423,4.85,2.99-4.85,Surveyed
+98,Catanduanes,Panganiban,San Pedro (Pob.),10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.91184254,124.3147452,2.86,1.77-2.86,Surveyed
+256,Quezon,Calauag,Baclaran,10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.9603322,122.28981,3.4,3.4,Surveyed
+260,Quezon,Lopez,Burgos (Pob.),10/30/1995,11/4/1995,,Super Typhoon,Angela,Rosing,13.90148382,121.8472904,2.34,2.34,Surveyed
+253,Pangasinan,Bolinao,Luciente I,9/17/1998,9/21/1998,,Typhoon,Vicki,Gading,16.3928811,119.8999107,1.52,1.52,Surveyed
+254,Pangasinan,Dagupan City,Pugaro Suit,9/17/1998,9/21/1998,,Typhoon,Vicki,Gading,16.06578688,120.3208146,1.31,1.31,Surveyed
+255,Pangasinan,San Fabian,Bolasi,9/17/1998,9/21/1998,,Typhoon,Vicki,Gading,16.1509704,120.415688,1.06,1.06,Surveyed
+83,Camarines Norte,Daet,Bagasbas,10/15/1998,10/28/1998,,Super Typhoon,Babs,Loleng,14.13800221,122.9831757,3.44,3.44,Surveyed
+84,Camarines Norte,Daet,Bagasbas,10/15/1998,10/28/1998,,Super Typhoon,Babs,Loleng,14.12967622,122.9881059,3.44,3.44,Surveyed
+87,Camarines Norte,Paracale,Poblacion Norte,10/15/1998,10/28/1998,,Super Typhoon,Babs,Loleng,14.28320472,122.7895158,2.52,2.52,Surveyed
+262,Quezon,San Andres,Pansoy,10/15/1998,10/28/1998,,Super Typhoon,Babs,Loleng,13.31204485,122.6802603,3.95,1.595-3.945,Surveyed
+65,Bulacan,Bulacan,Taliptip,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,14.7281702,120.8564117,4.31,2.39-4.31,Surveyed
+73,Cagayan,Claveria,Centro VI (Minanga),7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.61406436,121.0897373,1.15,0.60-1.15,Surveyed
+76,Cagayan,Pamplona,Nagtupacan,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.50040882,121.3528686,3.52,1.63-3.52,Surveyed
+77,Cagayan,Sanchez Mira,Marzan,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.56490059,121.2541605,2.42,1.96-2.42,Surveyed
+80,Cagayan,Santa Ana,Palawig,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.47012346,122.1440529,2.24,2.24,Surveyed
+161,Ilocos Norte,Abaca,Bangui,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.54363603,120.7667139,6.67,3.76-6.67,Surveyed
+162,Ilocos Norte,Badoc,Aring,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.93889823,120.4610186,4.88,2.39-4.88,Surveyed
+163,Ilocos Norte,Pagudpud,Balaoi,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.60961548,120.8694181,4.19,1.96-4.19,Surveyed
+164,Ilocos Norte,Pasuquin,Pragata (Pragata-Bungro),7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.34225665,120.5986351,3.49,2.75-3.49,Surveyed
+165,Ilocos Norte,Poblacio II,Currimao,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.01598247,120.4874534,3.31,1.0-3.31,Surveyed
+166,Ilocos Sur,Caoayan,Villamar,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.52515695,120.3807084,2.2,2.2,Surveyed
+168,Ilocos Sur,Santa Lucia,Nangalisan,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.10051912,120.4359143,2.89,2.89,Surveyed
+169,Ilocos Sur,Caoayan,Villamar,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.52364973,120.3831175,2.33,2.33,Surveyed
+170,Ilocos Sur,Magsingal,Manzante,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.69504694,120.3938956,1.45,1.45,Surveyed
+171,Ilocos Sur,Santo Domingo,Calay-ab,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.64875594,120.3623505,2.62,2.62,Surveyed
+172,Ilocos Sur,Sinait,Cabangtalan,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,17.87714559,120.4484425,2.7,1.52-2.70,Surveyed
+250,Pampanga,Santa Ana,Palawig,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,18.46559489,122.1413529,1.45,1.45,Surveyed
+251,Bulacan,Hagonoy,Tibaguin,7/2/2001,7/5/2001,,Severe Tropical Storm,Utor,Feria,14.75896008,120.7555683,3.34,3.34,Surveyed
+67,Cagayan,Aparri,Maura,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.35811045,121.645741,4.08,2.52-4.08,Surveyed
+68,Cagayan,Ballesteros,Cabuluan East,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.42062215,121.5076676,4.44,3.64-4.44,Surveyed
+69,Cagayan,Buguey,Centro,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.29105254,121.8322192,5.0,5,Surveyed
+70,Cagayan,Calayan,Cabudadan,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,19.30838349,121.5260295,4.59,3.24-4.59,Surveyed
+71,Cagayan,Calayan,Cabudadan,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,19.31882548,121.5228552,4.93,4.22-4.93,Surveyed
+74,Cagayan,Gonzaga,Minanga,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.28276803,121.9871026,2.3,2.3,Surveyed
+75,Cagayan,Gonzaga,Tapel,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.30405317,122.0263885,1.18,1.18,Surveyed
+78,Cagayan,Santa Ana,Palawig,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.47520572,122.1461869,3.48,3.48,Surveyed
+79,Cagayan,Santa Ana,Marede,6/25/2004,7/1/2004,,Typhoon,Mindulle,Igme,18.47591156,122.2405782,2.44,1.17-2.44,Surveyed
+22,Aurora,Baler,Pingit,11/30/2004,12/4/2004,,Super Typhoon,Nanmadol,Yoyong,15.68619808,121.6114306,5.56,3.14-5.56,Surveyed
+24,Aurora,Dipaculao,Lobbot,11/30/2004,12/4/2004,,Super Typhoon,Nanmadol,Yoyong,15.85685362,121.5477446,7.21,3.07-7.21,Surveyed
+249,Bulacan,Paombong,Masukol,11/30/2004,12/4/2004,,Super Typhoon,Nanmadol,Yoyong,14.75782766,120.7833427,5.16,4.74-5.16,Surveyed
+233,Northern Samar,Bobon,General Lucban,5/9/2006,5/15/2006,,Typhoon,Chanchu,Caloy,12.52770165,124.562193,1.72,320,Surveyed
+239,Northern Samar,Palapag,Paysud,5/9/2006,5/15/2006,,Typhoon,Chanchu,Caloy,12.56567635,125.1181705,2.93,317,Surveyed
+240,Northern Samar,Pambujan,Poblacion District 8,5/9/2006,5/15/2006,,Typhoon,Chanchu,Caloy,12.57085641,124.9414294,3.7,318,Surveyed
+242,Northern Samar,San Antonio,Ward II Poblacion,5/9/2006,5/15/2006,,Typhoon,Chanchu,Caloy,12.40228415,124.2800261,4.14,319,Surveyed
+38,Bataan,Orion,Daang Bago (Pob.),8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.62119174,120.5857338,2.6,2.6,Surveyed
+66,Bulacan,Hagonoy,Pugad,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.76990236,120.7278978,3.8,2.1-3.8,Surveyed
+99,Cavite,Bacoor,Tabing Dagat,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.46475325,120.9388638,0.66,0.66,Surveyed
+101,Cavite,Cavite City,Barangay 10-B (Kingfisher-B),8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.4692745,120.8923246,2.81,0.65-2.81,Surveyed
+102,Cavite,Kawit,Wakas II,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.45,120.9,0.38,0.38,Surveyed
+103,Cavite,Naic,Bancaan,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.31950367,120.7486632,2.68,2.33-2.68,Surveyed
+104,Cavite,Noveleta,San Rafael III,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.43953915,120.8740701,1.82,1.82,Surveyed
+105,Cavite,Tanza,Halayhay,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.3734578,120.8105639,2.37,1.65-2.37,Surveyed
+106,Cavite,Ternate,San Jose,8/25/2006,8/29/2006,,Typhoon,Xangsane,Milenyo,14.29538584,120.7165511,2.13,1.75-2.13,Surveyed
+31,Bataan,Balanga,Tortugas,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.69638967,120.5642961,2.5,2.2-2.5,Surveyed
+34,Bataan,Limay,San Francisco De Asis,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.56691072,120.5969992,2.9,2.7-2.9,Surveyed
+36,Bataan,Orani,Pantalan Luma (Pob.),9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.799176,120.5450751,2.8,2.5-2.8,Surveyed
+39,Batangas,Nasugbu,Bucana,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.0696579,120.6247565,0.36,0.36,Surveyed
+40,Batangas,Rosario,Calicanto,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,13.76207092,121.0448128,2.29,2.26-2.29,Surveyed
+232,Northern Samar,Allen,Kinabranan Zone II (Pob.),9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.49369085,124.2819713,1.79,1.79,Surveyed
+234,Northern Samar,Catarman,Dalakit (Pob.),9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.50781735,124.6369517,3.24,3.24,Surveyed
+235,Northern Samar,Gamay,Baybay Distrcit,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.39068776,125.3041953,4.91,4.91,Surveyed
+236,Northern Samar,Laoang,Tumaguingting,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.56768624,125.0128887,1.6,1.6,Surveyed
+237,Northern Samar,Lapinig,Lapinig Del Norte,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.32035039,125.3045566,1.6,1.6,Surveyed
+238,Northern Samar,Mondragon,Imelda,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.51662531,124.7454717,2.79,2.79,Surveyed
+243,Northern Samar,San Roque,Lao-angan,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.54478154,124.8739113,2.3,2.3,Surveyed
+244,Northern Samar,San Vicente,Ternate,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,12.35547957,124.059658,3.88,3.88,Surveyed
+248,Bulacan,Hagonoy,San Roque,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.77142557,120.6899339,2.3,2.3,Surveyed
+252,Pampanga,Sasmuan,Mabuanbuan,9/25/2006,9/29/2006,,Typhoon,Xangsane,Milenyo,14.82415575,120.6001787,3.1,3.1,Surveyed
+23,Aurora,Casiguran,Marikit,11/8/2006,11/12/2006,,Typhoon,Chebi,Quennie,16.25754238,122.1221759,7.12,1.34-7.12,Surveyed
+229,Marinduque,Santa Cruz,Lapu-lapu Pob (5th one),5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,13.48629671,122.0445782,2.22,1.31-2.22,Surveyed
+245,Aurora,Dingalan,Cabog(Matawe),5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.32631766,121.3748975,0.15,0.15,Surveyed
+263,Quezon,Candelaria,Bignay 1,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,13.84982374,121.4902161,1.67,1.67,Surveyed
+318,Zambales,Botolan,Capayawan,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.27749176,120.0058569,4.02,4.02,Surveyed
+319,Zambales,Cabangan,San Isidro,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.15952314,120.0363407,2.21,2.21,Surveyed
+320,Zambales,Faranal,San Felipe,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.06867767,120.0587068,1.1,1.1,Surveyed
+321,Zambales,Iba City,Santo Rosario,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.32981096,119.964014,2.02,2.02,Surveyed
+322,Zambales,Masinloc,North Poblacion,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.54056938,119.949668,1.92,1.38-1.92,Surveyed
+323,Zambales,Palauig,Garreta,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.43978249,119.8992729,1.95,1.40-1.95,Surveyed
+324,Zambales,San Narciso,La Paz,5/14/2008,5/19/2008,,Typhoon,Halong,Cosme,15.01307567,120.0641321,1.43,1.43,Surveyed
+174,Iloilo,Arevalo,Santo Ni├▒o Sur,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,10.67951438,122.5050457,1.53,1.53,Surveyed
+185,Iloilo,Ajuy,Pantalan Nabaye,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,11.16516106,123.0276424,3.01,1.73-3.01,Surveyed
+186,Iloilo,Banate,Zona Sur,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,10.99948648,122.8144957,2.02,2.02,Surveyed
+187,Iloilo,Barotac Nuevo,Palaciawan,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,10.94272105,122.7672794,1.68,1.68,Surveyed
+188,Iloilo,Barotac Viejo,San Juan,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,11.03154278,122.8740777,1.76,1.55-1.76,Surveyed
+189,Iloilo,Carles,Poblacion,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,11.57,123.13,3.46,2.66-3.46,Surveyed
+190,Iloilo,Oton,Trapiche,5/18/2008,5/23/2008,,Typhoon,Fengshen,Frank,10.68786309,122.4546356,2.98,2.90-2.98,Surveyed
+8,Antique,Anini-y,Mabuyong,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.4321634,121.988955,2.82,1.36-2.82,Surveyed
+9,Antique,Barbaza,Palma,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.23025311,122.0529913,2.95,0.87-2.95,Surveyed
+10,Antique,Belison,Poblacion 2,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.050323,122.048968,3.12,2.23-3.12,Surveyed
+11,Antique,Bugasong,Madrangca,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.75085837,121.9302011,3.09,2.27-3.09,Surveyed
+12,Antique,Caluya,Semirara,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,12.07000729,121.4000256,2.16,0.57-2.16,Surveyed
+13,Antique,Culasi,Centro Poblacion,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.43516516,122.057407,2.49,1.60-2.49,Surveyed
+14,Antique,Laua-an,Poblacion,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.14,122.04,3.37,2.18-3.37,Surveyed
+15,Antique,Libertad,Cubay,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.75383848,121.9698115,3.2,1.00-3.20,Surveyed
+16,Antique,Pandan,Dionela,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.72047459,122.0897516,2.87,1.49-2.87,Surveyed
+17,Antique,Patnongan,Poblacion,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.92041204,121.9819804,2.23,1.19-2.23,Surveyed
+18,Antique,San Jose de Buenavista,Madrangca,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.74870708,121.930693,2.42,1.60-2.49,Surveyed
+19,Antique,Sebaste,Abeira,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,11.57677023,122.0868402,2.23,1.06-2.23,Surveyed
+20,Antique,Tobia Fornier,Poblacion Norte,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.52026579,121.9383375,3.0,1.99-3.00,Surveyed
+21,Antique,Tobia Fornier,Poblacion Norte,6/18/2008,6/23/2008,,Typhoon,Fengshen,Frank,10.52336499,121.9409598,3.67,2.24-3.67,Surveyed
+191,Isabela,Dinapigue,Digumased,10/15/2010,10/20/2010,,Super Typhoon,Megi,Juan,16.51748558,122.2618159,4.61,3.21-4.61,Surveyed
+192,Isabela,Dvilican,Dimapula,10/15/2010,10/20/2010,,Super Typhoon,Megi,Juan,17.33543254,122.2914539,6.5,2.04-6.50,Surveyed
+193,Isabela,Maconacon,Minanga,10/15/2010,10/20/2010,,Super Typhoon,Megi,Juan,17.38813303,122.2435256,6.8,3.23-6.8,Surveyed
+194,Isabela,Palanan,Maligaya,10/15/2010,10/20/2010,,Super Typhoon,Megi,Juan,17.05174862,122.5075266,5.07,2.87-5.07,Surveyed
+112,Davao Oriental,Baganga,Kinablangan-Sitio Poo (Northwest),12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.702245573,126.5549276,1.63,1.00-1.63,Surveyed
+113,Davao Oriental,Baganga,Kinablangan-Sitio Poo (East),12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.705972639,126.5581087,1.78,1.00-1.78,Surveyed
+114,Davao Oriental,Baganga,Lambajon,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.6095,126.565,2.2,2.00-2.20,Surveyed
+115,Davao Oriental,Baganga,Ban-ao,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.7358,126.5381,2.46,2.00-2.46,Surveyed
+116,Davao Oriental,Baganga,Kinablangan,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.6918,126.5523,2.54,2.00-2.54,Surveyed
+117,Davao Oriental,Baganga,Saoquigue,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.5874,126.5585,3.47,3.00-3.47,Surveyed
+118,Davao Oriental,Baganga,Dapnan,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.6453,126.5551,3.94,3.00-3.94,Surveyed
+119,Davao Oriental,Boston,Sibajay,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.8273,126.4137,1.82,1.00-1.82,Surveyed
+120,Davao Oriental,Boston,Poblacion-Purok Daisy,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.8731,126.3736,3.03,3.00-3.03,Surveyed
+121,Davao Oriental,Boston,Poblacion-Purok Rosal,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.8664,126.3791,3.37,3.00-3.37,Surveyed
+122,Davao Oriental,Boston,Cawayanan,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.903939955,126.3592228,3.81,3.00-3.81,Surveyed
+123,Davao Oriental,Cateel,Santa Filomena,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.8082,126.4478,1.73,1.00-1.73,Surveyed
+124,Davao Oriental,Cateel,Poblacion,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.7913,126.4548,2.86,2.00-2.86,Surveyed
+125,Davao Oriental,Cateel,San Antonio,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.7359,126.5056,4.04,3.00-4.04,Surveyed
+126,Davao Oriental,Cateel,Baybay,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.757,126.4816,4.07,3.00-4.07,Surveyed
+314,Surigao Del Sur,Lingig,San Roque,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.9191,126.3684,4.78,3.00-4.78,Surveyed
+315,Surigao Del Sur,Lingig,Palo-Alto-Purok I,12/2/2012,12/9/2012,,Super Typhoon,Bopha,Pablo,7.986976266,126.439428,5.59,3.00-5.59,Surveyed
+133,Eastern Samar,Balangkayan,Poblacion III,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.46091429,125.5059564,6.96,5.00-6.96,Surveyed
+139,Eastern Samar,General McArthur,Aguinaldo,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.22416824,125.537041,2.26,1.00-2.26,Surveyed
+142,Eastern Samar,Guiuan,Sapao,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.05192092,125.7559993,3.94,2.00-3.94,Surveyed
+143,Eastern Samar,Guiuan,Sulangan,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,10.93608996,125.8256454,7.14,5.00-7.14,Surveyed
+146,Eastern Samar,Balangiga,San Miguel,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.12050285,125.3437538,6.61,5.00-6.61,Surveyed
+147,Eastern Samar,Balangiga,San Miguel,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.11484869,125.3634926,6.77,5.00-6.77,Surveyed
+208,Leyte,Dulag,San Jose,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,10.98761946,125.0399198,2.85,2.00-2.85,Surveyed
+217,Leyte,Palo,Baras,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.16309585,125.0085905,6.39,5.00-6.39,Surveyed
+221,Leyte,Tacloban,Barangay 56-A,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.22915168,125.004411,5.75,3.10-5.75,Surveyed
+222,Leyte,Tacloban,Barangay 88,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.222908,125.02815,6.27,5.00-6.27,Surveyed
+265,Samar,Basey,Catadman,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.27102508,125.1522832,5.39,5.00-5.39,Surveyed
+266,Samar,Basey,Baybay,11/6/2013,11/9/2013,,Super Typhoon,Haiyan,Yolanda,11.2803004,125.0844719,5.53,5.00-5.53,Surveyed
