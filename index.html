@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Historical Storm Surge Database Occurrences in the Philippines from 1897 - 2023</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-64.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <img class="pagasa-logo" src="assets/pagasa-logo.png" alt="PAGASA logo">
+      <div class="brand-text"><h1>Historical Storm Surge Database Occurrences in the Philippines from 1897 - 2023</h1><p>Search historical storm-surge observations, plot matching locations, and export results to CSV.</p></div>
+    </div>
+    <button id="adminBtn" class="admin-btn">Admin Access</button>
+  </header>
+
+  <main class="layout">
+    <aside class="panel filters">
+      <div class="panel-title">Search / Filter</div>
+
+      <label>Province
+        <select id="province"><option value="">All provinces</option></select>
+      </label>
+
+      <label>Municipality / City
+        <select id="municipality"><option value="">All municipalities / cities</option></select>
+      </label>
+
+      <label>Barangay
+        <select id="barangay"><option value="">All barangays</option></select>
+      </label>
+
+      <label>Typhoon
+        <select id="typhoon"><option value="">All typhoons</option></select>
+      </label>
+
+      <label>TC Category
+        <select id="category"><option value="">All categories</option></select>
+      </label>
+
+      <div class="two-col">
+        <label>Min surge (m)
+          <input id="minHeight" type="number" step="0.1" min="0" placeholder="0">
+        </label>
+        <label>Max surge (m)
+          <input id="maxHeight" type="number" step="0.1" min="0" placeholder="Any">
+        </label>
+      </div>
+
+      <label>Keyword
+        <input id="keyword" type="search" placeholder="Place, typhoon, type...">
+      </label>
+
+      <div class="buttons">
+        <button id="searchBtn" class="primary">Search</button>
+        <button id="resetBtn">Reset</button>
+      </div>
+
+      <div class="summary">
+        <strong id="resultCount">0</strong> records found
+      </div>
+
+      <button id="downloadBtn" class="download">Download filtered CSV</button>
+      <button id="fitBtn">Fit map to results</button>
+    </aside>
+
+    <section class="content">
+      <div class="panel map-panel">
+        <div id="map"></div>
+
+        <div class="surge-legend">
+          <div class="surge-legend-title">Storm Surge Height (m)</div>
+          <div><span class="legend-circle legend-yellow"></span> Below 2.0 m</div>
+          <div><span class="legend-circle legend-orange"></span> 2.1–3.0 m</div>
+          <div><span class="legend-circle legend-red"></span> 3.1 m and above</div>
+        </div>
+        <div id="mapError" class="map-error hidden">
+          Basemap tiles are unavailable. Check your internet/network access. Search, filtering, point plotting, and CSV download still work.
+        </div>
+      </div>
+
+      <div class="panel table-panel">
+        <div class="table-toolbar">
+          <div>
+            <div class="panel-title">Search Results</div>
+            <small>Click a row to zoom to its mapped location.</small>
+          </div>
+          <div class="pager">
+            <button id="prevBtn">Previous</button>
+            <span id="pageInfo">Page 1</span>
+            <button id="nextBtn">Next</button>
+          </div>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Province</th><th>Municipality / City</th><th>Barangay</th>
+                <th>Date</th><th>Category</th><th>International Name</th>
+                <th>Local Name</th><th>Observed Height (m)</th><th>Range</th><th>Type</th><th class="admin-only hidden">Action</th>
+              </tr>
+            </thead>
+            <tbody id="resultsBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div id="adminModal" class="modal hidden">
+    <div class="modal-card login-card">
+      <button class="modal-close" data-close="adminModal">&times;</button>
+      <h2>Administrator Access</h2>
+      <p class="muted">Enter the administrator credentials to add, edit, delete, or save records.</p>
+      <label>Username<input id="adminUser" autocomplete="username"></label>
+      <label>Password<input id="adminPass" type="password" autocomplete="current-password"></label>
+      <div id="loginError" class="error-text"></div>
+      <div class="buttons"><button id="loginBtn" class="primary">Sign in</button><button data-close="adminModal">Cancel</button></div>
+    </div>
+  </div>
+
+  <div id="editorModal" class="modal hidden">
+    <div class="modal-card editor-card">
+      <button class="modal-close" data-close="editorModal">&times;</button>
+      <h2 id="editorTitle">Add Storm Surge Record</h2>
+      <form id="recordForm">
+        <input id="editIndex" type="hidden">
+        <div class="form-grid">
+          <label>Province<input id="fProv" required></label>
+          <label>Municipality / City<input id="fMuni" required></label>
+          <label>Barangay<input id="fBrgy"></label>
+          <label>Date From<input id="fDateFrom" placeholder="MM/DD/YYYY"></label>
+          <label>Date To<input id="fDateTo" placeholder="MM/DD/YYYY"></label>
+          <label>Time<input id="fTime"></label>
+          <label>TC Category<input id="fCategory"></label>
+          <label>International Name<input id="fIntl"></label>
+          <label>Local Name<input id="fLocal"></label>
+          <label>Latitude<input id="fLat" type="number" step="any" required></label>
+          <label>Longitude<input id="fLng" type="number" step="any" required></label>
+          <label>Observed Height (m)<input id="fHeight" type="number" step="any"></label>
+          <label>Range<input id="fRange"></label>
+          <label>Type<input id="fType"></label>
+        </div>
+        <div class="editor-actions">
+          <button type="submit" class="primary">Save Record</button>
+          <button type="button" data-close="editorModal">Cancel</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <div id="adminBar" class="admin-bar hidden">
+    <strong>Administrator mode</strong>
+    <button id="addRecordBtn" class="primary">+ Add Record</button>
+    <button id="saveDatabaseBtn">Save Database CSV</button>
+    <button id="logoutBtn">Log out</button>
+  </div>
+
+  <footer>Historical Storm Surge Data Visualization Tool</footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
